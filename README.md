@@ -1,7 +1,7 @@
 # How to Scan to Document?
 
 
-[![How to Scan to Document](red2.png)](https://github.com/computerhacks/how-to-scan-to-document)
+[![How to Scan to Document](red2.png)](https://computersolve.com/how-to-scan-a-document-to-computer/)
 
 
 Most installed desktop versions of Microsoft Word can open and convert PDF files into editable Word documents directly. Or, you can scan pages and open recognized text in Word with an Android or iOS smartphone camera or a desktop scanner.
